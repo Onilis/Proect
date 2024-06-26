@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class CalculatorImpl {
+public class Calculator31 {
 
     private static final String DOUBLE_QUOTED_WRAPPED = "\"[^\"]+\"";
     private static final String ALL_OPERATORS = "[+\\-*/]";
